@@ -1,0 +1,15 @@
+{
+    "speak_alarm": false,
+    "speak_timer": true,
+    "sound_alarm": "default-alarm.wav",
+    "sound_timer": "default-timer.wav",
+    "snooze_mins": 15,
+    "timeout_min": 0.25,
+    "play_volume": 90,
+    "escalate_volume": true,
+    "priority_cutoff": 8,
+    "services": "",
+    "frequency": 15,
+    "sync_ask": false,
+    "__mycroft_skill_firstrun": false
+}
